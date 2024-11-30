@@ -1,0 +1,10 @@
+body{
+    background-color: #F2F4F7;
+}
+.signup-ancor{
+    text-decoration: none;
+    color: inherit;
+}
+.signup-ancor:hover{
+    text-decoration: underline;
+}
